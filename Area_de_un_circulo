@@ -1,0 +1,10 @@
+Algoritmo Area_de_Circulo
+	  Definir r Como Real;
+	  Definir a Como Real;
+	  Definir p Como Real;
+	      p =3.1416;
+	Escribir ("Ingresa radio del circulo;")
+	      Leer r;
+	      a<-(p*r^2);
+	Escribir ("El area del circulo es; "), a;
+    FinAlgoritmo
